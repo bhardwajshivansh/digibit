@@ -1,0 +1,21 @@
+
+Customer ID: 0
+Name: 
+Age: 7798784
+Mobile Number: 0
+Address: 
+Gender: 
+
+Customer ID: 1919
+Name: bhardwaj
+Age: 21
+Mobile Number: 2147483647
+Address: 
+Gender: 
+
+Customer ID: 1919
+Name: bhardaj
+Age: 21
+Mobile Number: 9026541254
+Address: raebareli
+Gender: M
